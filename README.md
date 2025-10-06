@@ -1,24 +1,47 @@
-# Kütüphaneler
+# YouTube Clone
+Bu proje, modern web teknolojileri kullanılarak geliştirilmiş bir YouTube klonudur. React ve diğer güncel kütüphanelerle oluşturulmuş olup, YouTube'un temel işlevlerini ve kullanıcı arayüzünü taklit etmektedir.
 
-- react
-- axios
-- tailwindcss
-- react-router-dom
-- react-icons
+🚀 Özellikler
+Ana Sayfa/Feed: Popüler videoların gösterildiği ana sayfa
+Arama Fonksiyonu: Gelişmiş video arama özelliği
+Video Detay Sayfası: Video oynatıcı, açıklama ve yorum bölümleri
+Kanal Bilgileri: Kanal sayfaları ve içerikleri
+Shorts Bölümü: Kısa video içerikleri
+Responsive Tasarım: Mobil ve masaüstü uyumlu arayüz
+Sidebar Navigasyonu: Kategorilere göre gezinti
+Yükleme Animasyonları: Skeleton loader ve spinner bileşenleri
+🛠️ Kullanılan Teknolojiler
+Frontend Framework: React
+Dil: JavaScript (JSX)
+Styling: CSS3
+Build Tool: Vite
+Package Manager: npm
+Version Control: Git & GitHub
+🚀 Kurulum ve Çalıştırma
+Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
-# Kaynaklar
+Ön Koşullar
+Node.js (v14 veya üzeri)
+npm veya yarn
+Adımlar
+Repository'yi klonlayın
 
-- API: https://rapidapi.com/ytjar/api/yt-api
+https://github.com/bekirsglm/youtube-clone
 
-# Enviroment Variables
+cd youtube-clone
 
-- Ortam değişkenleri, projenizde kullanmanız gereken ama herkesle paylaşmak istemeyiceğiniz ve githuna gönderilmesini engelliyeceğiniz değişkenlerdir.
-- Projeyi yeniden yayınlamadan bu değerleri değiştirebiliriz.
-- (api key, varitabanı url, admin variables, project variables)
+Bağımlılıkları yükleyin npm install
 
-- proje içerisinde bir `.env` isimli dosya aç
-- `VITE_DEĞİŞKEN_İSMİ=değişkenin değeri` formatıyla tanımlanır
-- proje içerisinde `import.meta.env.VITE_DEĞİŞKEN_İSMİ` ifadesyile env değişkenlere erişebiliriz.
-- .env klasörünü .gitignore'a ekleyerek githuba gönderilmesiini engelleriz
-- daha sonra projeyi indirip başlatıcak kişilere yardımcı olma amacıyla `.env.example` dosyası oluşturup hangi değişkenlerin tanımlanması egerektiğini belirtebiliriz
-# youtube---clone
+Geliştirme sunucusunu başlatın npm run dev
+
+🌟 Kullanım
+
+Ana Sayfa: Uygulama açıldığında popüler videoları görüntüler
+
+Arama: Üst kısımdaki arama çubuğunu kullanarak video arayın
+
+Video İzleme: Bir videoya tıklayarak detay sayfasına gidin
+
+Navigasyon: Sidebar'dan farklı kategorilere göz atın
+
+Shorts: Kısa video içeriklerini keşfedin
