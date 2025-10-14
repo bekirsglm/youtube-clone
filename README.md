@@ -45,3 +45,8 @@ Video İzleme: Bir videoya tıklayarak detay sayfasına gidin
 Navigasyon: Sidebar'dan farklı kategorilere göz atın
 
 Shorts: Kısa video içeriklerini keşfedin
+
+# EKRAN GÖRÜNTÜSÜ
+
+![EkranKayd2025-10-06181141-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ebbd737a-76a3-4505-9db3-a126df956603)
+
